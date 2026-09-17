@@ -8,3 +8,6 @@ This change was created on the feature/test branch.
 =======
 # git-practice
 
+## Purpose
+
+This repository was created to practise Git and GitHub workflows.
